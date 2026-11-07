@@ -1025,11 +1025,13 @@ AI: Any smart computer program
 Generative AI: AI that creates new content (text, image, video)LLM: Generative AI that works with language/textLLM is a type of Generative AI.
 
 Compare between chatgpt  and meta ai:
+```
 content                         Chat gpt                    Meta AI
 1.Accuracy                       9/10                       8.5/10
 2.Creativity                     10/10                      8/10
 3.Hallucination                  9/10                       8/10
 4.Reasoning                      8/10                       8/10
 5.Speed                          8/10                       9/10
+```
 # Result
 Thus the experiment was completed by giving same  prompt for two different AI tools.
